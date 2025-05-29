@@ -57,7 +57,11 @@ GeeksforGeeks. (n.d.). Python SQLite. https://www.geeksforgeeks.org/python-sqlit
 
 ## Criterion B - Design
 
-### Diagrams
+### Proposed Design
+
+In order to maintain a clear image of the final product that was to be developed, user interface diagrams were created using Wireframe CC, with additional comments added using CollaNote.
+
+
 
 #### System Diagram
 #### ER (Database) Diagrams
